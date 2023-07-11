@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iuriikogan
-- 👀 I’m interested in cloud-native
-- 🌱 I’m currently learning kubernetes security
+- 👀 I’m interested in Kubernetes
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 koganiurii@gmail.com
 
