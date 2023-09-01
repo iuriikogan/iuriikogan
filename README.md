@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iuriikogan
-- 👀 I’m interested in Kubernetes
-- 💞️ I’m looking to collaborate on anything interesting
+- 👀 I’m interested in DevOps, Cloud-native development and developer analytics.
 - 📫 koganiurii@gmail.com
 
 <!---
