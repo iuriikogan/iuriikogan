@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iuriikogan
+- 👋 Hi, I’m Iurii
 - 👀 I’m interested in DevOps, Cloud-native development and developer analytics.
 - 📫 koganiurii@gmail.com
 
