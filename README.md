@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iurii
-- 👀 I’m interested in DevSecOps, cloud-native development and developer experience.
+- 👀 I’m interested in AI, cloud-native development and developer security.
 - 📫 koganiurii@gmail.com
 
 <!---
